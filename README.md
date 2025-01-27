@@ -1,2 +1,2 @@
-# discord-react-bot
-Reacting to discord messages automaticly
+# Discord react bot
+Usage guide soon...
