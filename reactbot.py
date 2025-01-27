@@ -1,10 +1,6 @@
 import requests
 import time
-
-# Discord credentials and configuration
-AUTH_TOKEN = "[YOUR_AUTH_TOKEN]"  # Replace with your Discord auth token
-CHANNEL_ID = "[CHANNEL_ID]"  # Replace with your channel ID
-EMOJI = "✅"  # Replace with the emoji you want to react with
+from config import *
 
 # Discord API base URL
 BASE_URL = "https://discord.com/api/v9"
